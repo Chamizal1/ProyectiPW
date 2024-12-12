@@ -1,0 +1,12 @@
+[
+  { "nombre": "Coca", "price": 199.61, "cantidad": 909 },
+  { "nombre": "Pepsi", "price": 206.65, "cantidad": 277 },
+  { "nombre": "Red Cola", "price": 925.68, "cantidad": 763 },
+  { "nombre": "Red Bull", "price": 303.61, "cantidad": 877 },
+  { "nombre": "Maruchan", "price": 471.17, "cantidad": 300 },
+  { "nombre": "Chocolate", "price": 668.36, "cantidad": 278 },
+  { "nombre": "Monster", "price": 371.52, "cantidad": 964 },
+  { "nombre": "Cajeta", "price": 271.1, "cantidad": 561 },
+  { "nombre": "M&M", "price": 754.69, "cantidad": 287 },
+  { "nombre": "Sopa", "price": 884.69, "cantidad": 938 }
+]
